@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import config
 from telegram.ext import Updater, CommandHandler
 
