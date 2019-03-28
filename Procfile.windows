@@ -1,1 +1,1 @@
-web: python lsbot.py
+web: python bot.py
